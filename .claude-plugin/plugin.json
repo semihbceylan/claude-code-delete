@@ -1,0 +1,6 @@
+{
+  "name": "delete-session",
+  "version": "0.1.0",
+  "description": "/delete: wipe the current chat's local files and start a fresh chat",
+  "license": "MIT"
+}
